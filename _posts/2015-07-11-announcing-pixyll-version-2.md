@@ -15,4 +15,4 @@ Pixyll now features:
 * Modular, and lighter weight CSS
 * No more `max-width` media queries
 
-<img src="/logo80.jpeg>
+<img src="/logo80.jpeg">
